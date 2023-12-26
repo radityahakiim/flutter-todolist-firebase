@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563588761219",
+    "project_id": "bengkelkoding1488",
+    "storage_bucket": "bengkelkoding1488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563588761219:android:ffaced22580ee7bd2d7db6",
+        "android_client_info": {
+          "package_name": "com.example.base_todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ep9_xr22GnBFc7JQeyQ8dQC4R_OPAxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563588761219:android:8fe1e54a64a600992d7db6",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ep9_xr22GnBFc7JQeyQ8dQC4R_OPAxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
